@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sierra-knighten-799b3291)
 
+### Welcome!! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=snkty8.snkty8)
+
 
 <!--
 **snkty8/snkty8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
