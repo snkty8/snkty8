@@ -1,4 +1,4 @@
-### Hi there, I'm Sierra Knighten <img src="https://tenor.com/view/smiley-face-rainbow-happy-gif-15680921" width="25px">
+### Hello there, I'm Sierra Knighten <img src="https://media4.giphy.com/media/1UOpGLE1LkysBLtR0o/…i0tsj0xzgoyvw2jpzrzitizuub5vyy&rid=giphy.gif&ct=g" width="25px">
 
 
 <!--
