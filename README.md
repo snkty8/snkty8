@@ -1,4 +1,4 @@
-### Hi there, I'm Gapur Kassym</a> <img src="https://tenor.com/view/smiley-face-rainbow-happy-gif-15680921" width="25px">
+### Hi there, I'm Sierra Knighten <img src="https://tenor.com/view/smiley-face-rainbow-happy-gif-15680921" width="25px">
 
 
 <!--
