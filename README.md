@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Gapur Kassym</a> <img src="https://tenor.com/view/smiley-face-rainbow-happy-gif-15680921" width="25px">
+
 
 <!--
 **snkty8/snkty8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
