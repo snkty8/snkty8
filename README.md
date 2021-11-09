@@ -1,5 +1,7 @@
 ### Hello there, I'm Sierra Knighten <img src="https://media4.giphy.com/media/ehC4SqtNcEeLAiu66w/giphy.gif" width="25px">
 
+[![Linkedin Badge](https://1000logos.net/linkedin-logo/)](www.linkedin.com/in/sierra-knighten-799b3291)
+
 
 <!--
 **snkty8/snkty8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
