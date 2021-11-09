@@ -1,4 +1,4 @@
-### Hello there, I'm Sierra Knighten <img src="https://media4.giphy.com/media/1UOpGLE1LkysBLtR0o/…i0tsj0xzgoyvw2jpzrzitizuub5vyy&rid=giphy.gif&ct=g" width="25px">
+### Hello there, I'm Sierra Knighten <img src="https://media4.giphy.com/media/ehC4SqtNcEeLAiu66w/giphy.gif" width="25px">
 
 
 <!--
