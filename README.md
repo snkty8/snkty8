@@ -1,6 +1,6 @@
 ### Hello there, I'm Sierra Knighten <img src="https://media4.giphy.com/media/ehC4SqtNcEeLAiu66w/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://1000logos.net/linkedin-logo/)](www.linkedin.com/in/sierra-knighten-799b3291)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white))](www.linkedin.com/in/sierra-knighten-799b3291)
 
 
 <!--
