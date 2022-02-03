@@ -9,7 +9,7 @@ I have recently completed a Data Anlaytics and Visualization Bootcamp assoicated
 
 A little more about me:
 
-- 🔭 I’m currently working on Covid Data.  I want to create a map that shows the spread of the virus ovetime.
+- 🔭 I’m currently working on Covid Data.  I want to create a map that shows the spread of the virus over time.
 - 🌱 I’m currently learning Firebase.
 - 🤔 I’m looking for help with TensorFlow.
 - 💬 Ask me about anything.  I'm always willing to chat.
