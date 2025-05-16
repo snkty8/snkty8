@@ -13,7 +13,7 @@ A little more about me:
 - 🌱 I’m currently learning more about Machine Learning.
 - 💬 Ask me about anything. I'm always willing to chat.
 - 📫 How to reach me: snkty8@gmail.com
-- ⚡ Fun fact: I love video game and my favorite franchise is God of War!!!
+- ⚡ Fun fact: I love video games and my favorite franchise is God of War!!!
 
 ![yup-jeremiah](https://github.com/snkty8/snkty8/assets/78936833/a564a3e1-84ed-4ef2-bc7f-4f35580ea8f4)
 
